@@ -1,0 +1,193 @@
+{
+    "men": [
+      {
+        "id": "malcolm-x",
+        "name": "Malcolm X",
+        "summary": "A powerful voice for Black dignity and self-determination, shaping global conversations on liberation and identity.",
+        "bio": {
+          "early": "Born Malcolm Little in Omaha (1925), he experienced racial violence early in life and later moved between Lansing, Boston, and Harlem. After years shaped by instability and incarceration, he educated himself intensely while imprisoned and converted to Islam, marking a turning point toward discipline, study, and purpose.",
+          "impact": "As a leading spokesman for the Nation of Islam, Malcolm X demanded Black self-respect, self-defense, and political power, challenging the nation’s conscience with direct language about racism and inequality. After leaving the Nation of Islam, he broadened his approach, emphasized human rights, and sought global alliances—linking the Black freedom struggle in the U.S. to anti-colonial movements worldwide.",
+          "legacy": "Malcolm X remains a symbol of intellectual transformation, fearless truth-telling, and commitment to liberation. His life story continues to inspire organizing, critical thinking, and conversations about identity, justice, and global solidarity."
+        },
+        "achievements": [
+          "Became a nationally influential speaker and organizer in the Black freedom movement",
+          "Popularized messages of Black pride, self-determination, and political empowerment",
+          "Founded Muslim Mosque, Inc. to build independent community organizing",
+          "Helped establish the Organization of Afro-American Unity (OAAU) to frame civil rights as human rights",
+          "Delivered landmark speeches and interviews that shaped public debate on race and justice",
+          "Authored/was the subject of 'The Autobiography of Malcolm X' (as told to Alex Haley), a foundational text in modern political literature"
+        ]
+      },
+      {
+        "id": "mlk",
+        "name": "Martin Luther King Jr.",
+        "summary": "A central leader of the Civil Rights Movement whose commitment to nonviolence helped advance civil rights legislation and moral conscience.",
+        "bio": {
+          "early": "Born in Atlanta (1929), King grew up in a faith-centered community and was shaped by the Black church’s emphasis on moral leadership and social responsibility. He studied theology and earned a doctorate, developing a philosophy that combined Christian ethics with nonviolent resistance.",
+          "impact": "King emerged as a national leader during the Montgomery Bus Boycott and went on to help coordinate major campaigns for desegregation, voting rights, and economic justice. Through speeches, marches, and strategic nonviolent action, he mobilized communities, influenced national opinion, and pressured institutions to confront racial injustice.",
+          "legacy": "King is remembered as a moral voice for justice whose vision continues to shape democratic ideals. His leadership helped cement nonviolent protest as a powerful strategy and left a lasting blueprint for civil rights activism across the world."
+        },
+        "achievements": [
+          "Key leader in the Montgomery Bus Boycott (1955–1956)",
+          "Co-founded the Southern Christian Leadership Conference (SCLC)",
+          "Led major civil rights campaigns including Birmingham and Selma",
+          "Delivered the 'I Have a Dream' speech at the March on Washington (1963)",
+          "Helped build momentum for the Civil Rights Act (1964) and Voting Rights Act (1965)",
+          "Received the Nobel Peace Prize (1964)",
+          "Advanced later work on poverty and economic justice, including the Poor People’s Campaign"
+        ]
+      },
+      {
+        "id": "mandela",
+        "name": "Nelson Mandela",
+        "summary": "A global symbol of justice who helped lead South Africa from apartheid toward democracy and reconciliation.",
+        "bio": {
+          "early": "Born in Mvezo, South Africa (1918), Mandela studied law and became involved in anti-colonial and anti-apartheid organizing as a young adult. He joined the African National Congress (ANC) and helped build youth leadership committed to ending racial segregation and political exclusion.",
+          "impact": "Mandela became a key figure in the struggle against apartheid, advocating organized resistance and enduring decades of imprisonment for his beliefs. After 27 years incarcerated, he returned to public life and played a central role in negotiations that dismantled apartheid and transitioned South Africa toward democratic governance.",
+          "legacy": "Mandela’s leadership symbolizes reconciliation, courage, and principled resistance. He is remembered globally for showing how moral authority and strategic negotiation can transform a nation while pursuing justice and unity."
+        },
+        "achievements": [
+          "Prominent leader within the African National Congress (ANC) and anti-apartheid movement",
+          "Imprisoned for 27 years; became a global symbol of resistance to apartheid",
+          "Helped negotiate the end of apartheid and South Africa’s democratic transition",
+          "Elected President of South Africa (1994)",
+          "Shared the Nobel Peace Prize (1993)",
+          "Established a lasting global legacy around reconciliation, human rights, and democratic leadership"
+        ]
+      },
+      {
+        "id": "barack-obama",
+        "name": "Barack Obama",
+        "summary": "The first Black U.S. president, expanding civic possibility and inspiring generations through service and public leadership.",
+        "bio": {
+          "early": "Born in Honolulu (1961), Obama’s early life across Hawaii and Indonesia shaped a global outlook and strong sense of identity. After college and community organizing, he studied law and entered public service, building a career focused on civic participation and pragmatic reform.",
+          "impact": "Obama rose from state politics to national leadership, ultimately serving as the first Black President of the United States. His presidency emphasized expanding access to healthcare, strengthening economic recovery after crisis, and shaping a renewed national conversation about inclusion, leadership, and civic responsibility.",
+          "legacy": "Obama’s legacy includes both policy impact and symbolic significance—broadening beliefs about who can lead at the highest level. He remains influential through public speaking, writing, and civic initiatives encouraging participation, leadership, and service."
+        },
+        "achievements": [
+          "Served as a U.S. Senator representing Illinois",
+          "Elected the first Black President of the United States (2008) and served two terms",
+          "Signed major healthcare reform (Affordable Care Act)",
+          "Led federal responses to major economic and social challenges",
+          "Won the Nobel Peace Prize (2009)",
+          "Expanded global visibility of inclusive leadership and civic engagement"
+        ]
+      }
+    ],
+    "women": [
+      {
+        "id": "harriet-tubman",
+        "name": "Harriet Tubman",
+        "summary": "Freedom fighter and strategist who led people to liberation and expanded the meaning of courage in action.",
+        "bio": {
+          "early": "Born into slavery in Maryland (c. 1822), Tubman endured brutal conditions and life-threatening violence. After escaping to freedom, she made the extraordinary choice to return repeatedly to rescue others, driven by faith, resolve, and a deep commitment to liberation.",
+          "impact": "Tubman became one of the most effective conductors of the Underground Railroad, guiding enslaved people to freedom through careful planning, secrecy, and strategic leadership. During the Civil War, she supported the Union cause in roles that included scouting and intelligence work, expanding her impact beyond rescue missions alone.",
+          "legacy": "Tubman’s legacy represents fearless leadership and unwavering commitment to freedom. She is honored as a national symbol of resistance, courage, and community responsibility—showing how one person’s determination can change countless lives."
+        },
+        "achievements": [
+          "Escaped slavery and returned repeatedly to help others reach freedom",
+          "Served as a key conductor on the Underground Railroad",
+          "Led and supported multiple liberation missions through planning and strategy",
+          "Contributed to the Union effort during the Civil War through scouting and intelligence work",
+          "Became an enduring symbol of courage and freedom in American history"
+        ]
+      },
+      {
+        "id": "rosa-parks",
+        "name": "Rosa Parks",
+        "summary": "Her resistance became a catalyst for collective action, proving one courageous decision can move a nation.",
+        "bio": {
+          "early": "Born in Tuskegee, Alabama (1913), Parks grew up under segregation and became committed to dignity and fairness early in life. She worked within her community and developed a strong sense of civic responsibility, preparing her for long-term involvement in organized activism.",
+          "impact": "Parks’ refusal to give up her seat on a segregated bus became a defining moment that helped spark the Montgomery Bus Boycott. Her quiet strength and moral clarity helped unify communities and demonstrated how strategic resistance can ignite broader movements for change.",
+          "legacy": "Rosa Parks is remembered as a cornerstone of the Civil Rights Movement and a symbol of principled courage. Her actions continue to represent the power of individual dignity and collective action in confronting injustice."
+        },
+        "achievements": [
+          "Her bus protest helped catalyze the Montgomery Bus Boycott",
+          "Became a national symbol of dignity and resistance to segregation",
+          "Supported long-term civil rights work beyond Montgomery through advocacy and public engagement",
+          "Helped inspire sustained organizing for equality and voting rights"
+        ]
+      },
+      {
+        "id": "maya-angelou",
+        "name": "Maya Angelou",
+        "summary": "Poet and storyteller whose voice affirmed Black life and dignity, leaving a lasting cultural legacy through truth and language.",
+        "bio": {
+          "early": "Born in St. Louis (1928) and raised in Arkansas and elsewhere, Angelou navigated hardship and found strength through literature and performance. She developed a distinct voice rooted in honesty, resilience, and cultural pride, eventually becoming a celebrated writer and public speaker.",
+          "impact": "Angelou’s writing and poetry offered powerful reflections on identity, trauma, joy, and triumph—centering Black experiences with beauty and clarity. Through her works and public presence, she helped shape cultural conversations about dignity, womanhood, and the human spirit.",
+          "legacy": "Maya Angelou remains one of the most influential literary voices of the modern era. Her words continue to inspire readers worldwide to pursue courage, self-respect, and hope through truth and creativity."
+        },
+        "achievements": [
+          "Authored multiple acclaimed autobiographical works and poetry collections",
+          "Became an internationally recognized voice in literature and public speaking",
+          "Helped shape cultural narratives around identity, resilience, and dignity",
+          "Received numerous honors for contributions to arts and letters"
+        ]
+      },
+      {
+        "id": "mae-jemison",
+        "name": "Mae Jemison",
+        "summary": "The first Black woman in space, representing excellence in STEM and expanding imagination for what’s possible.",
+        "bio": {
+          "early": "Born in Decatur, Alabama (1956) and raised in Chicago, Jemison developed strong interests in science and exploration. She pursued rigorous education and training, building a multidisciplinary foundation that reflected both curiosity and persistence.",
+          "impact": "Jemison’s selection as an astronaut and her spaceflight made history, demonstrating expanded representation in science and aerospace. Beyond space, she has championed STEM education and innovation, encouraging new generations to pursue ambitious scientific goals.",
+          "legacy": "Mae Jemison’s legacy is about breaking barriers and widening opportunity in STEM. She remains a symbol of excellence, imagination, and the belief that scientific leadership belongs to everyone."
+        },
+        "achievements": [
+          "Became the first Black woman to travel to space",
+          "Served as an astronaut, representing major progress in representation within aerospace",
+          "Advocated for STEM education and scientific literacy",
+          "Inspired generations to pursue science, engineering, and innovation"
+        ]
+      },
+      {
+        "id": "serena-williams",
+        "name": "Serena Williams",
+        "summary": "A defining athlete whose excellence and resilience reshaped tennis and global sport culture.",
+        "bio": {
+          "early": "Raised with a strong competitive drive and disciplined training, Serena developed into a world-class athlete through persistence and confidence. Her rise challenged traditional expectations of who belongs at the top of elite sports.",
+          "impact": "Serena’s dominance in tennis redefined athletic greatness and expanded global attention to women’s sports. Her presence and success challenged stereotypes, set new standards for performance, and influenced culture far beyond the court.",
+          "legacy": "Serena Williams’ legacy is one of excellence, resilience, and transformation. She stands as a cultural icon whose career continues to inspire athletes and leaders across generations."
+        },
+        "achievements": [
+          "Redefined modern tennis through sustained excellence and competitive dominance",
+          "Helped elevate global visibility of women’s sports",
+          "Became a cultural icon influencing sport, media, and representation",
+          "Inspired a generation of athletes through resilience and leadership"
+        ]
+      },
+      {
+        "id": "michelle-obama",
+        "name": "Michelle Obama",
+        "summary": "An advocate for education, health, and civic engagement whose leadership continues to inspire public service.",
+        "bio": {
+          "early": "Born and raised in Chicago (1964), Michelle Obama built a foundation of academic excellence and public-minded ambition. Her career and public work reflect discipline, community focus, and commitment to helping others access opportunity.",
+          "impact": "As First Lady of the United States, she championed initiatives around healthy living, support for military families, and expanded access to education. Her speeches and outreach emphasized belonging, civic participation, and the importance of serving communities with empathy and strength.",
+          "legacy": "Michelle Obama’s legacy centers on leadership through service and visibility. She continues to influence public life by encouraging young people to pursue education, health, and civic responsibility."
+        },
+        "achievements": [
+          "Led major public initiatives promoting health and wellness",
+          "Advocated for educational access and youth empowerment",
+          "Supported military families and community engagement programs",
+          "Continues to inspire civic participation through writing and public speaking"
+        ]
+      },
+      {
+        "id": "angela-davis",
+        "name": "Angela Davis",
+        "summary": "Scholar and activist whose work on justice and liberation continues to shape political thought and social movements.",
+        "bio": {
+          "early": "Davis emerged as a leading intellectual voice shaped by education, political analysis, and lived experience with inequality. Her early development combined rigorous scholarship with a strong commitment to social justice and collective liberation.",
+          "impact": "Through writing, teaching, and activism, Davis influenced debates on incarceration, political freedom, and structural inequality. Her work helped connect theory with practice, shaping how many people understand justice movements and systemic change.",
+          "legacy": "Angela Davis remains a major figure in modern political thought and activism. Her legacy is rooted in challenging systems of oppression and inspiring people to pursue justice through critical thinking and sustained organizing."
+        },
+        "achievements": [
+          "Influential scholar and writer on justice, liberation, and political theory",
+          "Shaped public debate about incarceration and systemic inequality",
+          "Inspired and informed social movements through activism and education",
+          "Continues to influence modern organizing and academic discourse"
+        ]
+      }
+    ]
+  }
+  

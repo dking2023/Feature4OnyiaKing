@@ -1,0 +1,32 @@
+[
+    {
+      "id": "civil-rights",
+      "title": "Civil Rights & Social Justice",
+      "desc": "Movements, organizers, legal change, and community power."
+    },
+    {
+      "id": "sports",
+      "title": "Sports",
+      "desc": "Athletes and leaders who changed culture through excellence."
+    },
+    {
+      "id": "arts",
+      "title": "Arts & Entertainment",
+      "desc": "Creators shaping storytelling, music, film, and global culture."
+    },
+    {
+      "id": "stem",
+      "title": "STEM & Innovation",
+      "desc": "Science, invention, and research expanding what’s possible."
+    },
+    {
+      "id": "politics",
+      "title": "Politics & Government",
+      "desc": "Representation, policy, and leadership shaping institutions."
+    },
+    {
+      "id": "business",
+      "title": "Business & Entrepreneurship",
+      "desc": "Builders creating opportunity, wealth, and impact."
+    }
+  ]
